@@ -12,7 +12,7 @@ you to do it by hand in Settings.
 > ### Tested device
 > MakoCTS was built and tested specifically on the **vivo X200 Ultra (Chinese version,
 > OriginOS, Android 15)**. On that device it works reliably.
->
+>CONFIRMED, WORKS ON X300U
 > It **may also work on other Chinese-market phones** (vivo / iQOO, Xiaomi / Redmi / POCO,
 > OPPO, etc.) that rely on the same VIS trigger — but this is **not guaranteed**. Some
 > device-specific values (e.g. the assistant component and the internal trigger tag) are
@@ -163,3 +163,7 @@ MakoCTS adds the automatic assistant re-link on top of that trigger.
 
 Licensed under the **GNU General Public License v3.0 (GPL-3.0)**, in accordance with the
 license of MiCTS, on which the trigger code is based. See [LICENSE](LICENSE).
+
+
+If you find this app useful, consider supporting the developer ☕
+💙 Donate via PayPal: https://paypal.me/makominiplayer
