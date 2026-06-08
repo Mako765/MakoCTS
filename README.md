@@ -166,4 +166,4 @@ license of MiCTS, on which the trigger code is based. See [LICENSE](LICENSE).
 
 
 If you find this app useful, consider supporting the developer ☕
-💙 Donate via PayPal: https://paypal.me/makominiplayer
+💙 Donate via PayPal: https://paypal.me/makocts
